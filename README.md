@@ -6,13 +6,13 @@ For now:
 
 -I made 2 bots for discord in JavaScript.
 
--I learned some xamarin forms for developing apps but these days .NET MAUI came out and i want to learn it.
+-I learned some xamarin forms for developing apps.
 
--I make 19 print command in different programming languages for fun.
+-I made 19 print command in different programming languages for fun.
 
 -I'm learning c#.
 
--I'm making my own site in HTML/CSS/JavaScript.
+-I made my own site in HTML, CSS and JavaScript (https://riccio333.space).
 
 😃
 

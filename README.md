@@ -1,8 +1,8 @@
-👋 Hi, I’m @riccio333 👋
+# 👋 Hi, I’m @riccio333 👋
 
 I'm interested in a lot of things and I like discover what I can do with my pc. 💻
 
-For now:
+## For now:
 
 -I made 2 bots for discord in JavaScript.
 
@@ -10,7 +10,7 @@ For now:
 
 -I made 19 print command in different programming languages for fun.
 
--I'm learning c#.
+-I'm learning c# and creating a lot of simple programs.
 
 -I made my own site in HTML, CSS and JavaScript (https://riccio333.space).
 

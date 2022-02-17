@@ -10,9 +10,11 @@ I'm interested in a lot of things and I like discover what I can do with my pc. 
 
 -I made 19 print command in different programming languages for fun.
 
--I'm learning c# and creating a lot of simple programs.
+-I'm learning c# and creating a lot of programs.
 
 -I made my own site in HTML, CSS and JavaScript (https://riccio333.space).
+
+-I bought a Raspberry pi pico kit and learning micropython.
 
 😃
 

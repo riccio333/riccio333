@@ -14,7 +14,7 @@ I'm interested in a lot of things and I like discover what I can do with my pc. 
 
 -I made my own site in HTML, CSS and JavaScript (https://riccio333.space).
 
--I bought a Raspberry pi pico kit and learning micropython.
+-I bought a Raspberry pi pico kit and I'm learning micropython.
 
 😃
 

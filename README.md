@@ -4,23 +4,22 @@ I'm interested in a lot of things and I like discover what I can do with my pc. 
 
 ## For now:
 
--I made 2 bots for discord in JavaScript.
+-I made 3 bots for discord in JavaScript.
 
--I learned some xamarin forms for developing apps.
+-I learned some xamarin forms for developing android apps.
 
--I made 19 print command in different programming languages for fun.
-
--I'm learning c# and creating a lot of programs.
+-I made 26 print command in different programming languages for fun.
 
 -I made my own site in HTML, CSS and JavaScript (https://riccio333.space).
 
 -I bought a Raspberry pi pico kit and I'm learning micropython.
 
-😃
+-I'm learning c# and creating a lot of interesting programs.
 
-![riccio333's GitHub stats](https://github-readme-stats.vercel.app/api?username=riccio333&theme=highcontrast&show_icons=true&border_color=8f3d92&icon_color=b260e2&text_color=ffff00&title_color=ffff00)
+### Stars ⭐
+If you like my repositories please star them, I'd be very happy😃
 
-[![riccio333's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riccio333&layout=compact&bg_color=000000&text_color=ffff00&title_color=ffff00&border_color=8f3d92)](https://github.com/anuraghazra/github-readme-stats)
+![riccio333's GitHub stats](https://github-readme-stats.vercel.app/api?username=riccio333&theme=highcontrast&show_icons=true&border_color=ffff00&icon_color=b260e2&text_color=b260e2&title_color=b260e2)
 
 
 <!---

@@ -5,24 +5,24 @@
 </p>
 
 <p align="center">
-  I'm studying chemistry and I'm interested a lot in space and the secrets that the stars and planets can hide. I love coding in C# and with the right inspiration always find something to code. 💻
+  Hi my name is Erik and I'm interested a lot in space and the secrets that the stars and planets can hide. I love coding in C# and with the right inspiration I always find something to code. 💻
  </p>
 
 ## For now:
 
 -I made 3 bots for discord in JavaScript;
 
--I'm learning some Xamarin Forms for developing android apps;
-
 -I made 26 print command in different programming languages for fun;
 
 -I made my own site in HTML, CSS and JavaScript (https://riccio333.space);
 
--I learned AutoHotkey for making some macros on windows;
+-I'm learning C# and creating a lot of interesting programs.
+
+-I learned AutoHotkey for making some macros on Windows;
+
+-I'm learning some Xamarin Forms for developing android apps;
 
 -I bought a Raspberry pi pico kit and I'm learning some micropython;
-
--I'm learning C# and creating a lot of interesting programs.
 
 ## Stars ⭐
 If you like my repositories please ✨star✨ them, I'd be very happy! 😃
